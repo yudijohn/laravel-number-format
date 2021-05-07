@@ -1,0 +1,24 @@
+{
+    "name": "yudijohn/number-format",
+    "description": "Number formatter.",
+    "type": "template",
+    "authors": [
+        {
+            "name": "yudijohn",
+            "email": "yudijohn.sg@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "yudijohn\\NumberFormat\\NumberFormatServiceProvider"
+            ]
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "yudijohn\\NumberFormat\\": "src/"
+        }
+    }
+}
