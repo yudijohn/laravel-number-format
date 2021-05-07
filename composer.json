@@ -1,6 +1,6 @@
 {
-    "name": "yudijohn/number-format",
-    "description": "Number formatter.",
+    "name": "yudijohn/laravel-number-format",
+    "description": "Laravel Number formatter.",
     "type": "template",
     "authors": [
         {
